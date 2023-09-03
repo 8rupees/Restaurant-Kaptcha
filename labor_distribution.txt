@@ -1,0 +1,53 @@
+Aim - Target those faggots and show them who their daddy is.
+
+
+
+WP Project - Resataurant Website(MicroServices Based)
+
+Tech Stack + Work distribution - 
+    1.Angular(Tatsam Suresh)
+    2.Node js(All)
+    3.Sequalize(Jainil)
+    4.MySQL(All)
+    5.Deployment(Jainil)
+
+
+File system
+
+    -src/
+        index.js // Server
+        services/  Business Logic
+        models/
+        controllers/
+        middlewares/
+        services/
+        utils/
+        config/
+        repository/  Interact with databases and models
+        
+
+DB Archietecture
+    - Menu Category
+        Indian
+        Mexican
+        Persian
+        Beverages
+        Deserts
+
+    - Menu Item
+        Dishes for respective cuisines
+
+    - Menu Order
+        Order
+
+    - Saved Menu
+        Cart like feature which saves menu for quick order
+
+    - Table Reservation
+        Pre order Dine in
+
+
+
+CRUD Operations
+    - A/D items to cart.
+    - Order history.
